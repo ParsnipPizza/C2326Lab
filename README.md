@@ -1,2 +1,3 @@
 # C2326Lab
-I chanegd this for the lab
+I changed this for the lab
+shibboleth
